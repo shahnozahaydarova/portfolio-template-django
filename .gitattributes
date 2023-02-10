@@ -1,0 +1,5 @@
+*.md linguist-language=Python
+*.css linguist-language=Python
+*.html linguist-language=Python
+*.img linguist-language=Python
+
